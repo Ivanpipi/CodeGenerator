@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    font-family: 'Padauk', sans-serif;
+}
+
+.body{
+    background-color: white;
+}
+
+.navbar{
+    background-color: black;
+    height: 4.5rem;  
+}
+
+.navbar ul{
+    list-style: none;
+}
+
+.navbar p{
+    color: white;
+    align-content: center;
+    line-height: 60px;
+    font-size: 1.5rem;
+    font-weight: 400;
+}
+
+.title{
+    text-align: center;
+    font-size: 2rem;
+    margin-top: 5%;
+}
+
+.bton{
+    position: relative;
+    font-size: 1.3rem;
+    color: black;
+    margin-top: 10%;
+    margin-left: 43.5%;
+    width: 250px;
+    height: 50px;
+    border-radius: 5px;
+    border: 4px solid black;
+    background-color: transparent;
+}
+
+.bton:hover{
+    background-color: black;
+    border: 4px solid black;
+    color: white;
+}
+
+.bton:active{
+    background-color: black;
+    border: 4px solid black;
+    color: white;
+}
